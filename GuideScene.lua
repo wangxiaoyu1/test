@@ -90,7 +90,7 @@ function GuideScene:init()
 	lab:addTo(self)
 end
 
------------------------------------------------------------------------------------
+
 function GuideScene:juqing()
 	local png="juqingAction.png"
 	local plist="juqingAction.plist"
